@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/symulator-uczelni/static/css/main.43904448.chunk.css",
-    "main.js": "/symulator-uczelni/static/js/main.58c99dec.chunk.js",
-    "main.js.map": "/symulator-uczelni/static/js/main.58c99dec.chunk.js.map",
-    "runtime-main.js": "/symulator-uczelni/static/js/runtime-main.4c5b17a6.js",
-    "runtime-main.js.map": "/symulator-uczelni/static/js/runtime-main.4c5b17a6.js.map",
-    "static/js/2.8d5ea865.chunk.js": "/symulator-uczelni/static/js/2.8d5ea865.chunk.js",
-    "static/js/2.8d5ea865.chunk.js.map": "/symulator-uczelni/static/js/2.8d5ea865.chunk.js.map",
-    "index.html": "/symulator-uczelni/index.html",
-    "static/css/main.43904448.chunk.css.map": "/symulator-uczelni/static/css/main.43904448.chunk.css.map",
-    "static/js/2.8d5ea865.chunk.js.LICENSE.txt": "/symulator-uczelni/static/js/2.8d5ea865.chunk.js.LICENSE.txt"
+    "main.css": "/projekt_bazy/static/css/main.43904448.chunk.css",
+    "main.js": "/projekt_bazy/static/js/main.58c99dec.chunk.js",
+    "main.js.map": "/projekt_bazy/static/js/main.58c99dec.chunk.js.map",
+    "runtime-main.js": "/projekt_bazy/static/js/runtime-main.b09f19b2.js",
+    "runtime-main.js.map": "/projekt_bazy/static/js/runtime-main.b09f19b2.js.map",
+    "static/js/2.4589176d.chunk.js": "/projekt_bazy/static/js/2.4589176d.chunk.js",
+    "static/js/2.4589176d.chunk.js.map": "/projekt_bazy/static/js/2.4589176d.chunk.js.map",
+    "index.html": "/projekt_bazy/index.html",
+    "static/css/main.43904448.chunk.css.map": "/projekt_bazy/static/css/main.43904448.chunk.css.map",
+    "static/js/2.4589176d.chunk.js.LICENSE.txt": "/projekt_bazy/static/js/2.4589176d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4c5b17a6.js",
-    "static/js/2.8d5ea865.chunk.js",
+    "static/js/runtime-main.b09f19b2.js",
+    "static/js/2.4589176d.chunk.js",
     "static/css/main.43904448.chunk.css",
     "static/js/main.58c99dec.chunk.js"
   ]
